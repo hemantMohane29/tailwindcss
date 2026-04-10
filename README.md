@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A utility-first CSS framework for rapidly building custom user interfaces.
+  A utility-first CSS framework for rapidly building custom user interfaces and user use for own project smoothly.
 </p>
 
 <p align="center">
@@ -22,9 +22,7 @@
 ---
 
 ## Documentation
-
 For full documentation, visit [tailwindcss.com](https://tailwindcss.com).
-
 ## Community
 
 For help, discussion about best practices, or feature ideas:
@@ -34,3 +32,5 @@ For help, discussion about best practices, or feature ideas:
 ## Contributing
 
 If you're interested in contributing to Tailwind CSS, please read our [contributing docs](https://github.com/tailwindlabs/tailwindcss/blob/main/.github/CONTRIBUTING.md) **before submitting a pull request**.
+
+
